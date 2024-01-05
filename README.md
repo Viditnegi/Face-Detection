@@ -1,6 +1,3 @@
 # Face-Detection
-This is a line.
-<br> 
-This is a new line
 <br>
-yet another new line.
+An object detection project to detect faces.
